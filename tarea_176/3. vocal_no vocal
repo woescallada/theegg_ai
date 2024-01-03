@@ -1,0 +1,5 @@
+c1 = str(input("Introduce el carácter: "))
+if (c1 == "a" or c1 == "e" or c1 == "i" or c1 == "o" or c1 == "u"):
+    print("El carácter ",c1," es una vocal.")
+else:
+    print ("El carácter ",c1, " no es una vocal.")
